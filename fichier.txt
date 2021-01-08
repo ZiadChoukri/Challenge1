@@ -1,0 +1,12 @@
+Ziad@Ziad-PC MINGW64 ~/Desktop
+$ mkdir Exemple
+
+Ziad@Ziad-PC MINGW64 ~/Desktop
+$ cd Exemple
+
+Ziad@Ziad-PC MINGW64 ~/Desktop/Exemple
+$ touch fichier.txt
+
+Ziad@Ziad-PC MINGW64 ~/Desktop/Exemple
+$ nano fichier.txt
+
